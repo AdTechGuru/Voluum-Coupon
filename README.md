@@ -6,7 +6,7 @@ Looking to save big on the best advertising tracker in the market? We've got exc
 
 Voluum stands as the gold standard for performance marketers and affiliate pros who want laser-precise tracking, real-time optimization, and AI-driven automation. Why pay full price when you can snatch this massive Voluum discount today?
 
-[👉 Click here to activate your discount](https://voluum.com/partner/bloggingeclipse/)
+[![Click here to activate your discount](https://res.cloudinary.com/drzqec0oi/image/upload/v1747311246/Click_here_to_activate_your_discount_yinfyj.png)](https://voluum.com/partner/bloggingeclipse/)
 
 ---
 
@@ -200,7 +200,7 @@ In the competitive world of digital marketing, having the right tools can make o
 
 Ready to take your campaigns to the next level? Don't miss this chance to get Voluum at an unbeatable price. Our exclusive Voluum coupon code **BLOGGINGECLIPSE** gives you up to **70% OFF** plus a **14-day free trial** – the best Voluum discount available anywhere!
 
-[👉 ACTIVATE YOUR VOLUUM DISCOUNT NOW](https://voluum.com/partner/bloggingeclipse/)
+[![ACTIVATE YOUR VOLUUM DISCOUNT NOW](https://res.cloudinary.com/drzqec0oi/image/upload/v1747311246/ACTIVATE_YOUR_VOLUUM_DISCOUNT_NOW_zddu0g.png)](https://voluum.com/partner/bloggingeclipse/)
 
 Your marketing campaigns (and your wallet) will thank you!
 
