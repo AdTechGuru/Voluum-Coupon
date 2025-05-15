@@ -119,7 +119,7 @@ It's that simple! In just minutes, you'll have access to one of the most powerfu
         <br>
         <code style="background-color:#ff6600; color:white; padding:8px 15px; font-size:18px; border-radius:4px;">BLOGGINGECLIPSE</code>
         <br><br>
-        <p><strong>⏰ LIMITED TIME OFFER - MAY 2025 ⏰</strong></p>
+        <p><strong>⏰ LIMITED TIME OFFER ⏰</strong></p>
         <a href="https://voluum.com/partner/bloggingeclipse/" style="background-color:#ff6600; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold;">ACTIVATE NOW</a>
       </td>
     </tr>
