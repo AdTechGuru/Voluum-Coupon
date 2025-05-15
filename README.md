@@ -117,7 +117,7 @@ It's that simple! In just minutes, you'll have access to one of the most powerfu
         <h2>Up to 70% OFF All Voluum Plans</h2>
         <h3>+ 14 Days FREE Trial</h3>
         <br>
-        <code style="background-color:#ff6600; color:white; padding:8px 15px; font-size:50px; border-radius:4px;">BLOGGINGECLIPSE</code>
+        <code style="background-color:#ff6600; color:white; padding:10px 20px; font-size:150px; border-radius:10px;">BLOGGINGECLIPSE</code>
         <br><br>
         <p><strong>⏰ LIMITED TIME OFFER ⏰</strong></p>
         <a href="https://voluum.com/partner/bloggingeclipse/" style="background-color:#ff6600; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold;">ACTIVATE NOW</a>
